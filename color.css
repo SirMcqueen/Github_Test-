@@ -1,0 +1,34 @@
+body {
+    margin: 10px;
+    background: #fff;
+}
+
+h1{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    margin-left: 160px;
+    padding: 20px;
+ 
+}
+#bubble{
+    width: 850px;
+    height: 550px;
+    background-color: #f8b2fa;
+    margin: auto;
+    border-radius: 60px;
+}
+
+#weekday{
+    font-size: 120px;
+    color: #5bdf96;
+    font-weight: 800;
+    margin-left: 160px;
+}
+#mess{
+    font-size: 50px;
+    color: #672286;
+    font-weight: 800;
+    margin-left: 160px;
+}
